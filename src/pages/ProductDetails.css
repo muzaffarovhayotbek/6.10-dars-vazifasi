@@ -1,0 +1,89 @@
+.title {
+  font-size: 30px;
+  color: #f8f8f2;
+}
+
+.company {
+  color: #c7c9d1;
+  font-size: 20px;
+  margin: 8px;
+}
+
+.price {
+  color: #f8f8f2;
+  font-size: 20px;
+  margin: 12px;
+}
+.img {
+  object-fit: cover;
+}
+
+.desc {
+  width: 512px;
+  color: #f8f8f2;
+  font-size: 16px;
+  margin: 24px;
+}
+
+.btn {
+  border-radius: 12px;
+  margin: 40px;
+  padding: 16px;
+  font-size: 14px;
+  color: #282131;
+  background-color: #bf95f8;
+}
+.href {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+
+.href {
+  color: black;
+  font-size: 14px;
+}
+
+.btn-colors {
+  margin-left: 20px;
+  border-radius: 50%;
+
+  background-color: #ff5733;
+}
+.btn-green {
+  margin: 8px;
+  border-radius: 50%;
+  background-color: rgb(51, 255, 87);
+}
+.selects {
+  width: 320px;
+  padding: 8px 4px;
+}
+.selects h2 {
+  width: 54px;
+  font-size: 16px;
+  margin-left: 20px;
+  color: #f8f8f2;
+  padding-bottom: 5px;
+}
+.select {
+  margin-left: 20px;
+  width: 320px;
+  padding: 16px;
+}
+.colors {
+  padding-left: 20px;
+  width: 512px;
+  color: #f8f8f2;
+  font-size: 16px;
+}
+
+.blues {
+  border-radius: 50%;
+
+  background-color: #3366ff;
+  margin: 8px;
+}
+.select {
+  background-color: #ffffff;
+}

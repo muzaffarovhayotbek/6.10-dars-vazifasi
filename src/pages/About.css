@@ -1,0 +1,22 @@
+.about-title {
+  text-align: center;
+  font-size: 60px;
+  color: #ffffff;
+}
+
+.about-desc {
+  width: 672px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 26px;
+  margin: 24px 208px;
+}
+
+.about-btn {
+  width: 124px;
+  padding: 16px 24px;
+  border-radius: 10px;
+  background-color: blue;
+  color: #dbe1ff;
+  font-size: 36px;
+}
